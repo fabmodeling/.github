@@ -9,4 +9,4 @@ It aims to :
 - be versatile, as much as possible, allow the use of any tooling
 - educates; help learning by exposing the fabrication steps and choice
 
-This organization is managed by: Inria, IRISA, Université de Rennes... and more specifically the following teams : DiverSE, PACAP
+This organization is driven by: Inria, IRISA, Université de Rennes... and more specifically, driven by the following research teams : DiverSE, PACAP
