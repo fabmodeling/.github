@@ -1,8 +1,12 @@
-TODO General info about the FabModeling organization
+General info about the FabModeling organization
 
+FabModeling aims to help developper design artefacts by documenting the fabrication process and its variability.
 
-This oragnization is managed by:
-- Inria
-- IRISA
-- Université de Rennes
-- ...
+It aims to :
+- enforce sustainability; by reuse
+- help manage variability ( asset/component, process)
+- expose example fabrication projects
+- be versatile, as much as possible, allow the use of any tooling
+- educates; help learning by exposing the fabrication steps and choice
+
+This organization is managed by: Inria, IRISA, Université de Rennes... and more specifically the following teams : DiverSE, PACAP
